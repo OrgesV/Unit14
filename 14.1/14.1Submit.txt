@@ -1,0 +1,17 @@
+1. http is how clients get data or send data to a server
+2. URL is an address 
+3. DNS converts URL into IP Address
+4. query string allows you to pass key value pairs into the url
+5. Post - used to to create new resources
+Get - retrieve a representation of a resource
+6. an http request is a request from client to server following http protocol
+7. response from server to client following http protocol
+8. a header provides additional information about the request or response
+request: cookies
+reponse: content-type
+9.
+browser turns the url into an IP address
+a request is made to the IP address
+a response is retrieved
+the browser builds the DOM with HTML
+additional requests are made for things like javascript and css
