@@ -1,0 +1,17 @@
+#container{
+	position: relative;
+
+}
+#form{
+	position: relative;
+	left: 35%;
+	
+}
+#title{
+	position: relative;
+	left: 42%;
+	font-size: 25px;
+}
+.img{
+	border: solid 2px;
+}
